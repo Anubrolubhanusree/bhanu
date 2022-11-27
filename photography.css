@@ -1,0 +1,57 @@
+.para{
+    display: inline-flex;
+    width: 100%;
+    margin-left: 25%;
+    color:goldenrod;
+    font-family: 'PT Sans', sans-serif;
+ 
+ }
+ .head{
+     margin-top: 0;
+     font-weight: bolder;
+    font-size:400%;
+    font: 300%;
+    margin-left: 25%;
+    margin-right: 20%;
+    color:white;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+   
+ }
+ .motto{
+     font-size: 200%;
+     color:white;
+     margin-right: 5%;
+     font-family: 'Source Sans Pro', sans-serif;
+ }
+ .pare{
+     font-weight: bolder;
+     font-size:45px;
+     padding-top: 2%;
+     font-family: 'Source Sans Pro', sans-serif;
+       
+        
+ }
+ .her{
+     font-size: 150%;
+     margin-left: 2%;
+     color:white;
+     font-family: 'Source Sans Pro', sans-serif;
+ }   
+ .faculty{
+    font-size: 70%;
+     color:white;
+     margin-left: 5%;
+     font-family: 'Source Sans Pro', sans-serif;
+ }
+ .club{
+    font-size: 70%;
+     color:white;
+     margin-left: 5%;
+     font-family: 'Source Sans Pro', sans-serif;
+ }
+ /*.body{
+    background-image: url(./photography.jpg) no-repeat;
+ }*/
+ 
+ 
